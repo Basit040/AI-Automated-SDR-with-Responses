@@ -493,8 +493,8 @@ async def main():
         
         # Example recipients (replace with real emails)
         example_recipients = [
-            "abdulbasitnedian@outlook.com.com",
-            "abdulbasitnedian@gmail.com"
+            "zzzzzzzzzz@outlook.com",
+            "aaaaaaaaaaaa@gmail.com"
         ]
         
         print("Example usage:")
